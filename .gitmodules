@@ -1,3 +1,6 @@
 [submodule "babel-test"]
-	path = babel-test
-	url = git@github.com:YeomanYe/babel-test.git
+    path = babel-test
+    url = git@github.com:YeomanYe/babel-test.git
+[submodule "webpack-test"]
+    path = webpack-test
+    url = git@github.com:YeomanYe/webpack_test.git
